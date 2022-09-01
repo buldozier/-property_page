@@ -147,7 +147,7 @@ p {
   margin-right: 10px;
   width: 16px;
   height: 11px;
-  background-image: url('/img/metro.svg');
+  background-image: url('../img/metro.svg');
 }
 
 .card__adress {
@@ -215,7 +215,7 @@ p {
   width: 24px;
   height: 24px;
   vertical-align: bottom;
-  background: url('/img/chevron-up.svg');
+  background: url('../img/chevron-up.svg');
   transition: all 0.2s ease-in;
 }
 
@@ -384,7 +384,7 @@ body .container .sidebar .widget__body__hidden {
   display: block;
   width: 18px;
   height: 18px;
-  background: url('/img/check.svg') no-repeat #ffe074;
+  background: url('../img/check.svg') no-repeat #ffe074;
 }
 
 .checkbox__real:checked ~ span:last-child {
